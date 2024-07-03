@@ -1,0 +1,15 @@
+{
+  "name": "nanda",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nanda",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.24.0"
+  },
+  "devDependencies": {}
+}
